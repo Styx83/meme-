@@ -1,0 +1,46 @@
+body
+{
+	color: white;
+	background-color : black;
+	text-align: center;
+	font-size: 25px;
+	font-family: Impact;
+	padding: 20px;
+}
+#bottom
+{
+	margin:0 auto;
+	background-color: #151515;
+	text-align: center;
+	align-content: center;
+	font-size: 30px;
+	font-family: Bahnschrift, Liberation Sans;
+	color: #909090;
+}
+#carte
+{
+	width: 400px;
+	margin:0 auto;
+	padding-top: 50px;
+	background-color: #101010;
+	text-align: center;
+	align-content: center;
+	font-size: 40px;
+	font-family: Bahnschrift, Liberation Sans;
+	line-height: 100px
+}
+#titre
+{
+	color: white;
+	text-align: center;
+	font-size: 35px;
+	font-family: Impact;
+	padding: 20px;
+}
+#BACK
+{
+	text-align: center;
+	font-size: 55px;
+	font-family: Arial Black;
+	padding: 20px;
+}
